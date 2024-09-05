@@ -31,8 +31,12 @@ Criação da Janela: A janela é criada com o layout definido, sendo exibida par
 Lógica de Verificação de Credenciais: Ao clicar no botão "Entrar", o sistema verifica se o nome de usuário e senha correspondem aos valores predefinidos ('Marcos' e '1234'). Se as credenciais forem corretas, uma mensagem de boas-vindas é exibida.
 
 # 4. Resultados
-
+<img
+  src="Captura de tela 2024-09-05 094430.png"
+  alt="projeto em funcionamento"
+  width="400"
+  height="341" />
+  
 O sistema desenvolvido funciona conforme o esperado, permitindo a autenticação com credenciais válidas. A implementação demonstrou a capacidade da biblioteca PySimpleGUI de criar uma interface amigável e eficiente para o usuário final, com a facilidade de desenvolvimento rápido e integração com lógicas básicas de segurança.
 # 5. Discussão
-
-Embora o projeto tenha alcançado seus objetivos de criar um sistema de login funcional, ele possui limitações no que tange à segurança, como a ausência de proteção contra ataques de força bruta ou armazenamento seguro de credenciais. Para aplicações comerciais, recomenda-se a adoção de técnicas de criptografia e um backend seguro para o gerenciamento de usuários.
+Embora o projeto tenha alcançado seus objetivos de criar um sistema de login funcional, ele possui limitações no que tange à segurança, como a ausência de proteção contra ataques de força bruta ou armazenamento seguro de credenciais. Para aplicações comerciais, a adoção de técnicas de criptografia e um backend seguro para o gerenciamento de usuários seriam necessárias.
