@@ -6,9 +6,9 @@ Este projeto apresenta um exemplo prático de como implementar um sistema de log
 
 O objetivo principal deste projeto é desenvolver um sistema de login que permita:
 
-Receber entradas de usuário e senha.
-Validar as credenciais fornecidas pelo usuário.
-Exibir uma mensagem de boas-vindas caso as credenciais estejam corretas.
+* Receber entradas de usuário e senha.
+* Validar as credenciais fornecidas pelo usuário.
+* Exibir uma mensagem de boas-vindas caso as credenciais estejam corretas.
 # 3. Metodologia
 
 A metodologia adotada para o desenvolvimento do projeto inclui:
