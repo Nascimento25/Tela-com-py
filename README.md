@@ -1,4 +1,4 @@
- # 1. Introdução
+# 1. Introdução
 
 Este projeto apresenta um exemplo prático de como implementar um sistema de login utilizando a biblioteca PySimpleGUI, que permite a criação de interfaces gráficas simples com Python. O foco deste projeto é oferecer uma base para iniciantes em programação de GUIs, possibilitando a compreensão dos conceitos fundamentais de autenticação e interação com o usuário.
 
