@@ -22,6 +22,7 @@ Biblioteca: PySimpleGUI para criação de interfaces gráficas.
 * Layout da Interface: Definição dos elementos visuais, como campos de entrada, botões e caixas de seleção.
 * Janela do Sistema: Criação da janela principal onde o usuário interage com o sistema.
 * Lógica de Autenticação: Verificação das credenciais inseridas pelo usuário para conceder ou negar acesso.
+
 ## 3.3 Implementação do Código: O código é estruturado em três etapas principais:
 
 Importação e Configuração do Layout: O layout da GUI é configurado usando o PySimpleGUI, incluindo campos para entrada de nome de usuário e senha, e um botão de login.
